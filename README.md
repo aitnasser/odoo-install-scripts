@@ -9,7 +9,7 @@ This script can be safely used in a multi-odoo code base server because the defa
 
 ##### 1. Download the script odoo_install.sh or clone the repo:
 ```
-
+git clone  https://github.com/aitnasser/odoo-install-scripts.git
 ```
 ##### 2. Modify the parameters as you wish.
 There are a few things you can configure, this is the most used list:<br/>
